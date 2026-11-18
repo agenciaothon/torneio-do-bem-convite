@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Instituto Pedro Arantes//Torneio do Bem//PT-BR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:torneio-do-bem-20261206@institutopedroarantes.local
+DTSTAMP:20261118T120000Z
+DTSTART:20261206T120000Z
+DTEND:20261206T160000Z
+SUMMARY:Torneio do Bem
+LOCATION:Instituto Pedro Arantes\, R. Pedro Arantes\, 1571 - Alto da Boa V
+ ista\, Três Lagoas - MS\, 79640-500
+DESCRIPTION:Uma manhã de tênis e integração em família. Participaçã
+ o gratuita.\nO convite está em fase de pré-aprovação.
+END:VEVENT
+END:VCALENDAR
